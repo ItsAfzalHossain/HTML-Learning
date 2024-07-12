@@ -1,0 +1,15 @@
+div {
+    background: rgb(151, 71, 255);
+    padding: 10px 20px;
+    margin-bottom: 20px;
+  }
+  .two {
+    background: rgb(255, 200, 0);
+  }
+  .title {
+    font-size: 20px;
+    color: rgb(43, 13, 216);
+  }
+  #four {
+    background: rgba(196, 255, 47, 0.511);
+  }
